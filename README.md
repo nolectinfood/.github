@@ -2,7 +2,6 @@
 Welcome to the `.github` repository of our organization! This repository serves as the central hub for storing and managing default community health files and workflows that apply to all public repositories within our organization. It helps to ensure a consistent and welcoming environment for all contributors.
 
 ## Purpose
-
 This repository is intended to hold:
 
 - Public issue and pull request templates
